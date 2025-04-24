@@ -66,7 +66,7 @@ Moodle ofrece medidas de seguridad avanzadas para proteger los datos de los usua
 ## 🧠 **Autores y colaboradores**
 
 Este proyecto es desarrollado por una comunidad activa de expertos en tecnología educativa con el fin de mejorar la calidad del aprendizaje a través de soluciones digitales.
-Integrantes: Enmanuel Barut Gil y Herlin Magrid Arno
+Integrantes: Enmanuel Barut Gil y Herlin Magrid Arno.
 
 ---
 
