@@ -8,7 +8,7 @@ Sistema de Gestión de Aprendizaje (LMS)
 
 ---
 
-![Moodle Banner](ruta-a-tu-banner) <!-- Cambia esta ruta al nombre correcto si subes el banner -->
+![Moodle Banner](ruta-a-tu-banner) 
 
 **Moodle** es una plataforma educativa de código abierto que permite la creación, gestión y distribución de contenidos educativos. Su diseño permite tanto a instituciones como a individuos ofrecer una experiencia de aprendizaje digital interactiva y flexible.
 
@@ -66,6 +66,11 @@ Moodle ofrece medidas de seguridad avanzadas para proteger los datos de los usua
 ## 🧠 **Autores y colaboradores**
 
 Este proyecto es desarrollado por una comunidad activa de expertos en tecnología educativa con el fin de mejorar la calidad del aprendizaje a través de soluciones digitales.
+
+---
+
+## 🚧 **Estado del proyecto**  
+Este proyecto aún está en proceso de desarrollo. Actualmente, se están configurando los módulos de evaluación, integración con otros sistemas y la mejora de la interfaz de usuario. Aún falta completar varias características, y se trabajará en la optimización de la seguridad y la escalabilidad en las próximas fases.
 
 ---
 
