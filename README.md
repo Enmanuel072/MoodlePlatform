@@ -8,7 +8,7 @@ Sistema de Gestión de Aprendizaje (LMS)
 
 ---
 
-![Moodle Banner](ruta-a-tu-banner) 
+![Moodle Banner](./Moodle.png)
 
 **Moodle** es una plataforma educativa de código abierto que permite la creación, gestión y distribución de contenidos educativos. Su diseño permite tanto a instituciones como a individuos ofrecer una experiencia de aprendizaje digital interactiva y flexible.
 
